@@ -1,1 +1,1 @@
-# my-ci-cd-demo
+echo 'print("Hello, World!")' > app.py
